@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/om-games-page/static/css/main.ed624789.css",
+    "main.js": "/om-games-page/static/js/main.ef6f5d32.js",
+    "static/js/453.c67245ad.chunk.js": "/om-games-page/static/js/453.c67245ad.chunk.js",
+    "index.html": "/om-games-page/index.html",
+    "main.ed624789.css.map": "/om-games-page/static/css/main.ed624789.css.map",
+    "main.ef6f5d32.js.map": "/om-games-page/static/js/main.ef6f5d32.js.map",
+    "453.c67245ad.chunk.js.map": "/om-games-page/static/js/453.c67245ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed624789.css",
+    "static/js/main.ef6f5d32.js"
+  ]
+}
